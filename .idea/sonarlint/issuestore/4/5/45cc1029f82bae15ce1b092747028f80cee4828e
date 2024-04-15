@@ -1,0 +1,129 @@
+
+“
+java:S1319"qThe type of "systemProductList" should be an interface such as "List" rather than the implementation "ArrayList".(¼ˆÂıÿÿÿÿ8òˆ‚ùÏ1
+l
+java:S1104
+"OMake scn a static final constant or non-public and provide accessors if needed.(çô‰Ø8¶•ÌñÏ1
+
+java:S1104"]Make systemProductList a static final constant or non-public and provide accessors if needed.(¼ˆÂıÿÿÿÿ8óˆ‚ùÏ1
+
+java:S1104"bMake electronicProductCount a static final constant or non-public and provide accessors if needed.(¹Âª¯8¶•ÌñÏ1
+}
+java:S1104"`Make clothingProductCount a static final constant or non-public and provide accessors if needed.(å‰ç8¶•ÌñÏ1
+z
+java:S1104"]Make addedProductCount a static final constant or non-public and provide accessors if needed.(í…Ì8¶•ÌñÏ1
+Y
+java:S1444"7Make this "public static systemProductList" field final(¼ˆÂıÿÿÿÿ8¯ÿ™†Ğ1
+7
+java:S1220""Move this file to a named package.8·•ÌñÏ1
+n
+java:S2095Í"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(«Şó°8ª–ÌñÏ1
+l
+java:S2095Ë"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Í±‘8ª–ÌñÏ1
+?
+java:S2386"Make this member "protected".(¼ˆÂıÿÿÿÿ8ş€š†Ğ1
+B
+java:S1948
+"%Make "scn" transient or serializable.(çô‰Ø8ª–ÌñÏ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8­–ÌñÏ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ë¿¦ÿ8­–ÌñÏ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïï×”8­–ÌñÏ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²Ìîü8­–ÌñÏ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÎËû8­–ÌñÏ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä¶¼Ç8­–ÌñÏ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§ç¥Ìıÿÿÿÿ8­–ÌñÏ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•Úøéıÿÿÿÿ8­–ÌñÏ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨Îç8­–ÌñÏ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ûã³8­–ÌñÏ1
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(éùæ¿8­–ÌñÏ1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(Åş®‘8®–ÌñÏ1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8®–ÌñÏ1
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(§ïÅüÿÿÿÿ8®–ÌñÏ1
+T	java:S106J"9Replace this use of System.out or System.err by a logger.(›ò›C8®–ÌñÏ1
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(¦Ö¡ßüÿÿÿÿ8®–ÌñÏ1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(¸ŠºÜ8®–ÌñÏ1
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(Åş®‘8®–ÌñÏ1
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8®–ÌñÏ1
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(ìÊÿ²8®–ÌñÏ1
+t
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(’‰â™üÿÿÿÿ8®–ÌñÏ1
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¯–ÌñÏ1
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(–ª‰Û8¯–ÌñÏ1
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¯–ÌñÏ1
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(Ïëú¸øÿÿÿÿ8¯–ÌñÏ1
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(ş¦Ã–ÿÿÿÿÿ8¯–ÌñÏ1
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(Àæ‚â8°–ÌñÏ1
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(íª…„ıÿÿÿÿ8°–ÌñÏ1
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(Åş®‘8°–ÌñÏ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°–ÌñÏ1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(›‰ğÖ8°–ÌñÏ1
+V	java:S106£"9Replace this use of System.out or System.err by a logger.(ùéşØ8°–ÌñÏ1
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(Ñôœì8°–ÌñÏ1
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(ÄšİÃûÿÿÿÿ8°–ÌñÏ1
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(ğÖø­8±–ÌñÏ1
+V	java:S106®"9Replace this use of System.out or System.err by a logger.(óŸ¾Ô8±–ÌñÏ1
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(Ë§ÅÓ8±–ÌñÏ1
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8±–ÌñÏ1
+U	java:S106´"9Replace this use of System.out or System.err by a logger.(ï…ƒo8±–ÌñÏ1
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(“ñ„Äıÿÿÿÿ8±–ÌñÏ1
+[	java:S106¹"9Replace this use of System.out or System.err by a logger.(ˆ†ÚÁúÿÿÿÿ8±–ÌñÏ1
+[	java:S106¼"9Replace this use of System.out or System.err by a logger.(ÚÄÊàÿÿÿÿÿ8±–ÌñÏ1
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(Åş®‘8±–ÌñÏ1
+m
+java:S6201á"JReplace this instanceof check and cast with 'instanceof Clothing clothing'(Ú¬¤âüÿÿÿÿ8ÕÇ×ñÏ1
+s
+java:S6201å"PReplace this instanceof check and cast with 'instanceof Electronics electronics'(â¯Â¥úÿÿÿÿ8ËÄÍñÏ1
+c
+java:S1854ñ"@Remove this useless assignment to local variable "productPrice".(”ÿúÊıÿÿÿÿ8´–ÌñÏ1
+k
+java:S1659ñ"HDeclare "productName" and all following declarations on a separate line.(”ÿúÊıÿÿÿÿ8´–ÌñÏ1
+Q
+java:S1481ñ".Remove this unused "productID" local variable.(”ÿúÊıÿÿÿÿ8´–ÌñÏ1
+S
+java:S1481ñ"0Remove this unused "productName" local variable.(”ÿúÊıÿÿÿÿ8´–ÌñÏ1
+Y
+java:S1481ñ"6Remove this unused "numAvailableItems" local variable.(”ÿúÊıÿÿÿÿ8´–ÌñÏ1
+T
+java:S1481ñ"1Remove this unused "productPrice" local variable.(”ÿúÊıÿÿÿÿ8´–ÌñÏ1
+T
+java:S1481ñ"1Remove this unused "productBrand" local variable.(”ÿúÊıÿÿÿÿ8´–ÌñÏ1
+V
+java:S1481ñ"3Remove this unused "warrantyPeriod" local variable.(”ÿúÊıÿÿÿÿ8´–ÌñÏ1
+[	java:S106ó"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´–ÌñÏ1
+^
+java:S1854‚"@Remove this useless assignment to local variable "productPrice".(ı¢¡8µ–ÌñÏ1
+f
+java:S1659‚"HDeclare "productName" and all following declarations on a separate line.(ı¢¡8µ–ÌñÏ1
+L
+java:S1481‚".Remove this unused "productID" local variable.(ı¢¡8µ–ÌñÏ1
+N
+java:S1481‚"0Remove this unused "productName" local variable.(ı¢¡8µ–ÌñÏ1
+T
+java:S1481‚"6Remove this unused "numAvailableItems" local variable.(ı¢¡8µ–ÌñÏ1
+O
+java:S1481‚"1Remove this unused "productPrice" local variable.(ı¢¡8µ–ÌñÏ1
+N
+java:S1481‚"0Remove this unused "productSize" local variable.(ı¢¡8µ–ÌñÏ1
+T
+java:S1481ƒ"1Remove this unused "productColor" local variable.(ëŞŒ÷ıÿÿÿÿ8µ–ÌñÏ1
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8µ–ÌñÏ1
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(”«ù8¶–ÌñÏ1
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(Ü¦†ãúÿÿÿÿ8¶–ÌñÏ1
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(êâû½ÿÿÿÿÿ8¶–ÌñÏ1
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(©Œ°ˆøÿÿÿÿ8¶–ÌñÏ1
+U	java:S106®"9Replace this use of System.out or System.err by a logger.(á™Õ8¶–ÌñÏ1
+V	java:S106º"9Replace this use of System.out or System.err by a logger.(·ÏÉ8¶–ÌñÏ1
+[	java:S106¿"9Replace this use of System.out or System.err by a logger.(”»÷Œşÿÿÿÿ8·–ÌñÏ1
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(Œ²³¼ûÿÿÿÿ8·–ÌñÏ1
+[	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(–€ê§ıÿÿÿÿ8·–ÌñÏ1
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(Õº…ÿÿÿÿÿ8·–ÌñÏ1
+[	java:S106Ü"9Replace this use of System.out or System.err by a logger.(ƒîëåüÿÿÿÿ8·–ÌñÏ1
+[	java:S106è"9Replace this use of System.out or System.err by a logger.(ÕÜÒüÿÿÿÿ8·–ÌñÏ1
+V	java:S106í"9Replace this use of System.out or System.err by a logger.(ŞºŸ›8·–ÌñÏ1
+[	java:S106ú"9Replace this use of System.out or System.err by a logger.(›÷–Èùÿÿÿÿ8¸–ÌñÏ1
+[	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(¿„Ç¨ıÿÿÿÿ8¸–ÌñÏ1
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(õ—Ô8¸–ÌñÏ1
+?
+java:S1116‹"Remove this empty statement.(ôŸìúÿÿÿÿ8¸–ÌñÏ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(‹€¦ıÿÿÿÿ8¸–ÌñÏ1
+F	java:S108•")Either remove or fill this block of code.(´¬ş8¸–ÌñÏ1

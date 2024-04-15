@@ -1,0 +1,15 @@
+
+q
+java:S1104"UMake productID a static final constant or non-public and provide accessors if needed.(Šƒ©#8­¿ÈèÏ1
+t
+java:S1104"WMake productName a static final constant or non-public and provide accessors if needed.(‹Ïš‡8×ğÈèÏ1
+
+java:S1104"bMake numberOfAvailableItems a static final constant or non-public and provide accessors if needed.(ÍˆæŠ8×ğÈèÏ1
+n
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(¢ì­ 8×ğÈèÏ1
+7
+java:S1220""Move this file to a named package.8Ç‡§ÂÏ1
+{
+java:S12102"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ëÛ•éøÿÿÿÿ8É‡§ÂÏ1
+V
+java:S5993	"9Change the visibility of this constructor to "protected".(šÁîÒ8Ê‡§ÂÏ1
